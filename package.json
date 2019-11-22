@@ -1,5 +1,6 @@
 {
   "name": "@mrblenny/react-flow-chart",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "version": "0.0.8",
   "description": "A flexible, stateless flow chart library for react.",
   "main": "src/index.js",
